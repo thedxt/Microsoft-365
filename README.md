@@ -1,2 +1,2 @@
-# Microsoft-365
+# Microsoft 365
 scripts related to Microsoft 365
